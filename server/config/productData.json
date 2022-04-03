@@ -1,0 +1,167 @@
+[
+  {
+    "itemcategory": "Furniture",
+    "productitem": "Bench",
+    "productdetails": "Bench with seating capacity of 3",
+    "image": "bench.jpeg",
+    "rentamount": 10,
+    "availability": "Yes",
+    "volume": 25
+  },
+  {
+    "itemcategory": "Furniture",
+    "productitem": "Foldable Bed",
+    "productdetails": "Foldable Bed for travel and short term stay",
+    "image": "foldablebed.jpg",
+    "rentamount": 5,
+    "availability": "Yes",
+    "volume": 25
+  },
+  {
+    "itemcategory": "Furniture",
+    "productitem": "Party Table",
+    "productdetails": "Party Table for Outdoor partys",
+    "image": "party table.jpg",
+    "rentamount": 10,
+    "availability": "Yes",
+    "volume": 25
+  },
+  {
+      "itemcategory": "Furniture",
+      "productitem": "Chair",
+      "productdetails": "Single occupancy Chairs",
+      "image": "chair.jpeg",
+      "rentamount": 5,
+      "availability": "Yes",
+      "volume": 200
+    },
+    {
+      "itemcategory": "Furniture",
+      "productitem": "Chair and Table Set",
+      "productdetails": "Dining Table and Chair Set for wedding receptions",
+      "image": "dingtablechairset.jpg",
+      "rentamount": 5,
+      "availability": "Yes",
+      "volume": 20
+    },
+    {
+      "itemcategory": "Furniture",
+      "productitem": "Round Wedding Table",
+      "productdetails": "Round Wedding Table Set for wedding receptions",
+      "image": "wedding dinner.jpg",
+      "rentamount": 5,
+      "availability": "Yes",
+      "volume": 2
+    },
+    {
+      "itemcategory": "Furniture",
+      "productitem": "Trampoline Outdor Fun",
+      "productdetails": "Outdoor Trampoline set for fun unlimited",
+      "image": "trampo.jpg",
+      "rentamount": 5,
+      "availability": "Yes",
+      "volume": 2
+    },
+    
+    {
+      "itemcategory": "Furniture",
+      "productitem": "Round Table",
+      "productdetails": "Round Table for Open Air wedding Receptions",
+      "image": "roundtable.jpeg",
+      "rentamount": 20,
+      "availability": "Yes",
+      "volume": 20
+    },
+    {
+      "itemcategory": "Equipments",
+      "productitem": "Lawn Mowers Ride on",
+      "productdetails": "Ride-On Mowers for large areas ",
+      "image": "rideonmower.jpeg",
+      "rentamount": 85,
+      "availability": "Yes",
+      "volume": 5
+    },
+    {
+      "itemcategory": "Equipments",
+      "productitem": "Lawn Mowers walk on",
+      "productdetails": "Walk Mowers  for small lawn areas ",
+      "image": "walkonmower.jpeg",
+      "rentamount": 50,
+      "availability": "Yes",
+      "volume": 5
+    },
+    {
+      "itemcategory": "Equipments",
+      "productitem": "Gas Snow Blowers",
+      "productdetails": "Gas Snow Blowers for snow removals",
+      "image": "gassnow.jpeg",
+      "rentamount": 30,
+      "availability": "Yes",
+      "volume": 3
+    },
+    {
+      "itemcategory": "Equipments",
+      "productitem": "Long Ladder",
+      "productdetails": "Long Ladders for Repair Works ",
+      "image": "longladder.jpg",
+      "rentamount": 30,
+      "availability": "Yes",
+      "volume": 8
+    },
+  
+    {
+      "itemcategory": "Equipments",
+      "productitem": "Towerr Ladder",
+      "productdetails": "Tower Ladders for Roof Repair Works ",
+      "image": "towerladder.jpg",
+      "rentamount": 30,
+      "availability": "Yes",
+      "volume": 4
+    },
+    {
+      "itemcategory": "Equipments",
+      "productitem": "Carpenetr Tool Kit",
+      "productdetails": "Carpentry Kit for household repairs and maintenance",
+      "image": "carpentertoolkit.jpg",
+      "rentamount": 10,
+      "availability": "Yes",
+      "volume": 14
+    },
+    {
+      "itemcategory": "Equipments",
+      "productitem": "Car Cleaner",
+      "productdetails": "Car cleaner with high pressure for home claening of cars ",
+      "image": "car cleaner set.jpg",
+      "rentamount": 10,
+      "availability": "Yes",
+      "volume": 14
+    },
+    {
+      "itemcategory": "Equipments",
+      "productitem": "Cordless Snow Blowers",
+      "productdetails": "Cordless Snow Blowers for snow removals",
+      "image": "cordlesssnow.jpeg",
+      "rentamount": 45,
+      "availability": "Yes",
+      "volume": 2
+    },
+    {
+      "itemcategory": "Equipments",
+      "productitem": "Engine Oil Changer Machine",
+      "productdetails": "Engine Oil Changer Machine for garage oil change",
+      "image": "engineoilchanger.jpeg",
+      "rentamount": 30,
+      "availability": "Yes",
+      "volume": 2
+    },
+    {
+      "itemcategory": "Equipments",
+      "productitem": "Electrical Tool Kit",
+      "productdetails": "Electrical tool kit for home repairs",
+      "image": "electricalrepairkit.jpeg",
+      "rentamount": 10,
+      "availability": "Yes",
+      "volume": 30
+    }
+   
+]
